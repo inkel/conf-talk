@@ -1,0 +1,14 @@
+
+```
+$ gem install slidedown
+$ slidedown talk.md > slides.html
+$ slidedown examples/csv/examples.md > examples.html
+```
+
+Editar *.html y agregar lo siguiente para que se vean los acentos:
+
+```
+<meta charset="utf-8">
+````
+
+Estoy viendo de modificar los estilos, porque los que vienen por defecto tienen algunas cosas, cuando menos, discutibles.
